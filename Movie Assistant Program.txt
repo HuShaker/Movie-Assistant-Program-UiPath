@@ -1,0 +1,36 @@
+Project 1 - Movie Assistant Program:
+
+	Open IMDB on Edge 
+	Open Top box Office Movies 
+	Scrape ( read ) Top box office movies 
+	
+	
+Step x :  Promote a choice dialouge for user to select one of the scraped movies 
+
+
+	Open the Selected Movie 
+	Get Movie IMDB Rating - Popularity 
+	
+	Open Rotten Tomato 
+	Get Movie Tomato Meter 
+	Get Movie Audiance Score
+	
+	Out to User Results and then Ask if he wants to search a new movie
+	
+	
+	if yes
+			Repeate Steps starting from Step X
+			
+	if no 
+	
+			Output best search movie based on Ratings
+			
+	
+	IMDB Rating 		Popularity 		Tomato Meter		Audiance score  ( Top Gun: Maverick)
+		8.6					11				96					99
+		
+	IMDB Rating 		Popularity 		Tomato Meter		Audiance score  ( Lolipop )
+		9					12				85					74
+		
+	IMDB Rating 		Popularity 		Tomato Meter		Audiance score  ( THOR: LOVE AND THUNDER)
+		6.7					7				65					77
